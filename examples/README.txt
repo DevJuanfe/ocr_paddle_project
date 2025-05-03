@@ -1,0 +1,1 @@
+Agrega aquí imágenes como cedulas escaneadas, facturas, etc. en formato JPG o PNG.
