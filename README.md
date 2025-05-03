@@ -4,11 +4,11 @@ EL PROYECTO implementa un sistema de Reconocimiento Óptico de Caracteres (OCR) 
 
 ## Características
 
-- 🔍 Detección automática del tipo de documento.
-- 🧠 Extracción inteligente de campos clave (nombre, número de cédula, NIT, etc.).
-- 🖼️ Soporte para imágenes o fotografías escaneadas de documentos.
-- 💻 Interfaz web interactiva construida con Gradio.
-- ⚙️ Basado en PaddleOCR, un motor de OCR de alto rendimiento.
+-  Detección automática del tipo de documento.
+-  Extracción inteligente de campos clave (nombre, número de cédula, NIT, etc.).
+-  Soporte para imágenes o fotografías escaneadas de documentos.
+-  Interfaz web interactiva construida con Gradio.
+-  Basado en PaddleOCR, un motor de OCR de alto rendimiento.
 
 ## Estructura del proyecto
 
